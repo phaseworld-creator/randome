@@ -2,7 +2,7 @@
 
 ## 📄 At a Glance Summary
 
-| Feature | Dell Latitude E7270 | HP EliteBook 840 G2 | HP EliteBook 745 G6 | Clear Winner |
+| Feature | Dell Latitude E7270(voby) | HP EliteBook 840 G2(erto) | HP EliteBook 745 G6(phase) | Clear Winner |
 | :--- | :--- | :--- | :--- | :--- |
 | **Release Era** | ~2016 | ~2015 | ~2019 | **HP 745 G6** (4 years newer than G2) |
 | **Processor (CPU)** | Intel 6th Gen Core *(Dual-Core)* | Intel 5th Gen Core *(Dual-Core)* | AMD Ryzen 3000 PRO *(Quad-Core)* | **HP 745 G6** (2x cores, modern speed) |
